@@ -1,7 +1,6 @@
-# C867 – Class Roster (C++)
+# Class Roster (C++)
 
-This project was completed for **WGU C867: Scripting and Programming – Applications**.  
-It implements a simplified student roster system in **C++**, simulating part of a university’s migration to a new student management platform.
+This project implements a simplified student roster system in **C++**, simulating part of a university’s migration to a new student management platform.
 
 ## Overview
 
